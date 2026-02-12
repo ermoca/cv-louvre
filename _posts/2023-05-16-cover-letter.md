@@ -3,7 +3,7 @@ layout: post
 title:  "Qui suis-je ?"
 author: erica
 categories: []
-image1: assets/images/orpheo.png
+image1: assets/images/jeanne.JPG
 image2: assets/images/portrait.jpeg
 featured: true
 hidden: true
